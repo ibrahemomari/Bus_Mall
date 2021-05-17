@@ -39,6 +39,7 @@ function Products (name,path,TimeImageShown)
 
 
 }
+
 new Products('bag','images/bag.jpg',0);
 new Products('banana','images/banana.jpg',0);
 new Products('bathroom','images/bathroom.jpg',0);
